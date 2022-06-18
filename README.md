@@ -1,9 +1,6 @@
-<h1>Sümeyye Karakaş </h1> 
-
-# 19410051072-bilisim_sistemleri
-
-
- encryption and decryption by python
+<h1>SÜMEYYE KARAKAŞ </h1>
+<h2>Yönetim Bilişim Sistemleri Dersi </h2>
+<h3> Python ile İki Farklı Yöntemle Şifreleme ve Deşifre Etme <h3>
 <hr>
 Yazılan kodların çalışma mantığı kodlar ile birlikte açıklama satırı yazılarak anlatılmıştır.
 
